@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+}
+
+label, button{
+    background-color: black;
+    border: 3px, wheat, dashed;
+    border-radius: 50px;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+    font-size: larger;
+    font-weight: bold;
+    width: 270px;
+    float: inline-end;
+}
+
+#note{
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 100px;
+    border: 3px, rgb(39, 38, 34) dashed;
+}
+
+#tyu{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+button{
+    width: 100%;
+}
+
+canvas{
+    border: 3px purple dashed ;
+}
+
+#jdj{
+    float: right;
+    font-size: large;
+}
